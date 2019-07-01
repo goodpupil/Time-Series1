@@ -1,0 +1,4 @@
+   Test Statistic             ...               Number of Observations Used
+0      -12.899726             ...                                   43768.0
+
+[1 rows x 4 columns]
